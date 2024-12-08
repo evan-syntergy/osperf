@@ -54,7 +54,7 @@
     "grunt-contrib-yuidoc": "^1.0.0",
     "istanbul": "~0.3.5",
     "jshint": "^2.10.2",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "should": "~4.6.1"
   },
   "directories": {
