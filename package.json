@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.110",
     "@types/node": "^10.5.1",
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "bannockburn": "https://github.com/evan-wheeler/bannockburn.git",
     "commander": "^2.19.0",
     "ejs": "^2.6.1",
